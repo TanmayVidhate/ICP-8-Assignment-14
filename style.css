@@ -23,7 +23,7 @@ body{
 
 
 /*Button*/
-button{
+.btn{
     margin-left: 30px;
     padding: 15px 20px;
     border-radius: 5px;
@@ -31,4 +31,9 @@ button{
     color: white;
     font-weight: 800;
     background:linear-gradient(to right,rgb(230, 92, 25),rgb(248, 208, 130));
+}
+
+
+.btn:hover{
+    background-color: azure;
 }

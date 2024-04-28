@@ -5,6 +5,11 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Inter", sans-serif;
+    
+}
+
+body{
+    background-color: rgb(246, 246, 246);
 }
 
 .p-txt p {

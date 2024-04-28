@@ -19,3 +19,15 @@ body{
     border-radius: 5px;
     box-shadow: 5px 5px 5px 2px rgb(252, 186, 3);
 }
+
+
+/*Button*/
+button{
+    margin-left: 30px;
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-weight: 800;
+    background:linear-gradient(to right,rgb(230, 92, 25),rgb(248, 208, 130));
+}

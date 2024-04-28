@@ -35,5 +35,7 @@ body{
 
 
 .btn:hover{
-    background-color: azure;
+   color: rgb(252, 65, 0);
+   background-image: linear-gradient(to right,rgb(248, 208, 130),rgb(253, 255, 194));
+   
 }
